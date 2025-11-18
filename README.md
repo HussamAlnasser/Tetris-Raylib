@@ -11,7 +11,7 @@ Much of the art was based on assets from other games, such as the Tetra blocks f
     Install Raylib
   </li>
   <li>
-    Make sure you have Visual Studios or Notepad++ installed
+    Make sure you have Visual Studio Code or Notepad++ installed
   </li>
 </ul>
 
