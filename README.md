@@ -47,6 +47,9 @@ Much of the art was based on assets from other games, such as the Tetra blocks f
 
 <ul>
   <li>
+    Tetris game - Alexey Pajitnov
+  </li>
+  <li>
     Tetra blocks - Tetris & Dr. Mario
   </li>
   <li>
